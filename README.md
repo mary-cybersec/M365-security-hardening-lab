@@ -4,7 +4,7 @@ This repository documents a hands-on lab series completed as part of the **Black
 
 ---
 
-## 🧩 Overview
+##  Overview
 
 The goal of this lab was to implement essential Microsoft 365 security features, such as MFA, Conditional Access, custom alert policies, anti-malware configurations, and more — all in a simulated enterprise environment.
 
@@ -15,28 +15,28 @@ Each task includes:
 
 ---
 
-## ✅ Completed Tasks
+##  Completed Tasks
 
 | Task No. | Description |
 |---------|-------------|
 | 01 | Create and License a Standard User Account |
 | 02 | Enable Per-User Multi-Factor Authentication (MFA) |
 | 03 | Create Conditional Access Policy |
-| 04 | Enforce Custom Password Policy |
-| 05 | Configure Sign-in Risk Policy |
-| 06 | Configure User Risk Policy |
-| 07 | Set Up Professional Banner Warning for External Emails |
-| 08 | Enable Microsoft Defender for M365 |
+| 04 | Create Custom Password Policy |
+| 05 | Enforce Password Rotation |
+| 06 | Set Up Professional Banner Warning for External Emails |
+| 07 | Create Safe Links for Email |
+| 08 | Create Safe Attachments for Email |
 | 09 | Create Anti-Phishing Policy |
 | 10 | Create Anti-Spam Policy |
 | 11 | Create Anti-Malware Policy |
 | 12 | Audit User Activity Logs |
-| 13 | Configure Microsoft Defender Antivirus |
+| 13 | Create an Alert Policy |
 | 14 | Launch Attack Simulation Training |
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Microsoft 365 Admin Center**
 - **Azure AD / Entra ID**
@@ -47,7 +47,7 @@ Each task includes:
 
 ---
 
-## 📸 Evidence of Work
+##  Evidence of Work
 
 Each task folder contains:
 - `steps.md` — documentation of task execution
@@ -55,13 +55,13 @@ Each task folder contains:
 
 ---
 
-## 🎓 About the Program
+##  About the Program
 
 This lab was developed under the **BlackTECH Academy Cybersecurity Accelerator**, an immersive training program designed to prepare aspiring professionals for entry-level cybersecurity roles. The lab reflects real-world use cases aligned with Microsoft’s cloud security stack.
 
 ---
 
-## 💼 Author
+##  Author
 
 **Mary Ogbonna**  
 Aspiring SOC Analyst | Cybersecurity Enthusiast  
